@@ -1,0 +1,48 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<programarid>ppZA2aZG0J</programarid>
+<itunes:category text="History"/>
+<itunes:category text="Society & Culture">
+<itunes:category text="Documentary"/>
+</itunes:category>
+<itunes:author>ABC listen</itunes:author>
+<title>The Sophcast</title>
+<link>https://www.abc.net.au/listen/programs/the-history-listen/</link>
+<description>New and compelling stories from Australia and around the world. Step inside a time machine for an immersive journey into the past.</description>
+<language>en</language>
+<copyright>Copyright 2024, Australian Broadcasting Corporation. All right reserved.</copyright>
+<pubDate>Sun, 21 Apr 2024 11:00:00 +1000</pubDate>
+<lastBuildDate>Sun, 21 Apr 2024 11:00:00 +1000</lastBuildDate>
+<image>
+<title/>
+<url>https://live-production.wcms.abc-cdn.net.au/0971c7bd5d24fcd9cf35400908f44125.jpg?src</url>
+<link>https://www.abc.net.au/listen/programs/the-history-listen/</link>
+<description>New and compelling stories from Australia and around the world. Step inside a time machine for an immersive journey into the past.</description>
+</image>
+<ttl>30</ttl>
+<atom:link href="https://www.abc.net.au/feeds/9184114/podcast.xml" rel="self" type="application/rss+xml"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:summary>New and compelling stories from Australia and around the world. Step inside a time machine for an immersive journey into the past.</itunes:summary>
+<itunes:subtitle>New and compelling stories from Australia and around the world. Step inside a time machine for an immersive journey into the past.</itunes:subtitle>
+<itunes:owner>
+<itunes:name/>
+<itunes:email/>
+</itunes:owner>
+<itunes:image href="https://live-production.wcms.abc-cdn.net.au/0971c7bd5d24fcd9cf35400908f44125.jpg?src"/>
+<item>
+<title>The Friendship Spitfire: Jack Dawson-Green's war story </title>
+<link>https://www.abc.net.au/listen/programs/the-history-listen/the-history-listen-friendship-spitfire-jack-dawson-green/103665948</link>
+<description>
+<![CDATA[ <p>A story of swagger, bravery, skill and ultimately, friendship, set on the frontline of war</p> ]]>
+</description>
+<enclosure url="https://mediacore-live-production.akamaized.net/audio/01/sq/Z/3b.mp3" length="41182316" type="audio/mpeg"/>
+<guid isPermaLink="true">https://www.abc.net.au/listen/programs/the-history-listen/the-history-listen-friendship-spitfire-jack-dawson-green/103665948</guid>
+<pubDate>Sun, 21 Apr 2024 11:00:00 +1000</pubDate>
+<itunes:author>Australian Broadcasting Corporation</itunes:author>
+<itunes:summary>A story of swagger, bravery, skill and ultimately, friendship, set on the frontline of war</itunes:summary>
+<itunes:subtitle>A story of swagger, bravery, skill and ultimately, friendship, set on the frontline of war</itunes:subtitle>
+<itunes:image href="https://live-production.wcms.abc-cdn.net.au/22818a01484206d1108f3844efff9df5.jpg?src"/>
+<itunes:duration>28:35</itunes:duration>
+</item>
+</channel>
+</rss>
