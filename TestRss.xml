@@ -5,6 +5,11 @@
   <title>Rob's curated podcast feed</title>
   <link>https://illustrious-duckanoo-8d047b.netlify.app/</link>
   <description>A curated feed of other podcast episodes</description>
+  <image>
+	  <url>https://illustrious-duckanoo-8d047b.netlify.app/logo-zoomed-200.jpg</url>
+	  <title>W3Schools.com</title>
+	  <link>https://illustrious-duckanoo-8d047b.netlify.app/</link>
+</image>
   <item>
     <title>The Belgrano Diary: The Hounds</title>
     <link>https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-belgrano-diary/the-hounds</link>
