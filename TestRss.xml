@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Rob's curated podcast feed</title>
+  <link>https://illustrious-duckanoo-8d047b.netlify.app/</link>
+  <description>A curated feed of other podcast episodes</description>
+  <item>
+    <title>The Belgrano Diary: The Hounds</title>
+    <link>https://www.lrb.co.uk/podcasts-and-videos/podcasts/the-belgrano-diary/the-hounds</link>
+    <description>Episode 4 of the London Review of Books' excellent series on the deadliest event of the Falklands War</description>
+	<enclosure url="https://lrb-website-production-assets.s3.eu-west-2.amazonaws.com/original/audio/3dabcabecad33106d40a22f994d41673.mp3" length="74323584" type="audio/mpeg" />
+  </item>
+</channel>
+
+</rss>
